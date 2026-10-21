@@ -1,0 +1,8 @@
+site_name: 开源软件实验文档
+theme:
+  name: material
+nav:
+  - 首页: index.md
+  - 关于: about.md
+  - 使用指南: guide.md
+  - API文档: api.md
